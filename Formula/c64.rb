@@ -2,7 +2,7 @@ class C64 < Formula
   desc "Command your Commodore C64 Ultimate from the terminal"
   homepage "https://github.com/jeffsand/c64"
   url "https://registry.npmjs.org/@jeffsand/c64/-/c64-0.1.2.tgz"
-  sha256 :no_check
+  sha256 "236131985246c7943e62a092a3cc0d5a45f7c872b416b74c5ff524fa193620b6"
   license "MIT"
 
   depends_on "node@20"
